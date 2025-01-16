@@ -2,8 +2,8 @@
 # PC Builder - Comparateur de composants PC
 
 [![Licence](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Dernière version](https://img.shields.io/github/v/release/VotreNomUtilisateur/NomDuProjet)](https://github.com/VotreNomUtilisateur/NomDuProjet/releases)
-[![Contributions](https://img.shields.io/github/contributors/VotreNomUtilisateur/NomDuProjet)](https://github.com/VotreNomUtilisateur/NomDuProjet/graphs/contributors)
+[![Dernière version](https://img.shields.io/github/v/release/VotreNomUtilisateur/NomDuProjet)](https://github.com/ayoub-ld/pc-builder/releases)
+[![Contributions](https://img.shields.io/github/contributors/VotreNomUtilisateur/NomDuProjet)](https://github.com/ayoub-ld/pc-builder/graphs/contributors)
 
 
 Ce projet vise à créer un outil de configuration de PC, similaire à PCPartPicker ou ConfigoMatic, mais en mettant l'accent sur :
